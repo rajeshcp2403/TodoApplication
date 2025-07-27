@@ -1,0 +1,12 @@
+.footer{
+    background-color: rgb(219, 97, 97);
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.item{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 250px;
+    }
