@@ -1,0 +1,9 @@
+.list{
+    width:500px;
+    border-radius: 4px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+    height: max-height;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
